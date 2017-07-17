@@ -33,23 +33,23 @@ msgstr ""
 
 #: 404.php:24
 msgid "404"
-msgstr ""
+msgstr "404"
 
 #: 404.php:25
 msgid "error"
-msgstr ""
+msgstr "خطا"
 
 #: archive.php:27
 msgid "Author: %s"
-msgstr ""
+msgstr "نویسنده: %s"
 
 #: archive.php:30
 msgid "Day: %s"
-msgstr ""
+msgstr "روز: %s"
 
 #: archive.php:33
 msgid "Month: %s"
-msgstr ""
+msgstr "ماه: %s"
 
 #: archive.php:33
 msgctxt "monthly archives date format"
@@ -58,7 +58,7 @@ msgstr ""
 
 #: archive.php:36
 msgid "Year: %s"
-msgstr ""
+msgstr "سال: %s"
 
 #: archive.php:36
 msgctxt "yearly archives date format"
@@ -67,43 +67,43 @@ msgstr ""
 
 #: archive.php:39
 msgid "Asides"
-msgstr ""
+msgstr "به جز"
 
 #: archive.php:42
 msgid "Galleries"
-msgstr ""
+msgstr "گالری ها"
 
 #: archive.php:45
 msgid "Images"
-msgstr ""
+msgstr "عکس ها"
 
 #: archive.php:48
 msgid "Videos"
-msgstr ""
+msgstr "فیلم ها"
 
 #: archive.php:51
 msgid "Quotes"
-msgstr ""
+msgstr "نقل قول ها"
 
 #: archive.php:54
 msgid "Links"
-msgstr ""
+msgstr "لینک ها"
 
 #: archive.php:57
 msgid "Statuses"
-msgstr ""
+msgstr "وضعیت ها"
 
 #: archive.php:60
 msgid "Audios"
-msgstr ""
+msgstr "صداها"
 
 #: archive.php:63
 msgid "Chats"
-msgstr ""
+msgstr "گفتگو ها"
 
 #: archive.php:66
 msgid "Archives"
-msgstr ""
+msgstr "بایگانی ها"
 
 #: comments.php:28
 msgctxt "comments title"
@@ -114,7 +114,7 @@ msgstr[1] ""
 
 #: comments.php:35 comments.php:52
 msgid "Comment navigation"
-msgstr ""
+msgstr "نظر ناوبری"
 
 #: comments.php:36 comments.php:53
 msgid "&larr; Older Comments"
@@ -122,44 +122,46 @@ msgstr ""
 
 #: comments.php:37 comments.php:54
 msgid "Newer Comments &rarr;"
-msgstr ""
+msgstr "نظرات جدید و rarr؛"
 
 #: comments.php:64
 msgid "Comments are closed."
-msgstr ""
+msgstr "ارسال دیدگاه بسته شده است."
 
 #: content-none.php:13
 msgid "Nothing Found"
-msgstr ""
+msgstr "چیزی یافت نشد"
 
 #: content-none.php:19
 msgid ""
 "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
-msgstr ""
+msgstr "آماده ارسال اولین پست خود هستید؟ <a href=\"٪1$s\"> اینجا را شروع کنید </a>"
 
 #: content-none.php:23
 msgid ""
 "Sorry, but nothing matched your search terms. Please try again with some "
 "different keywords."
-msgstr ""
+msgstr "با عرض پوزش، اما چیزی با شرایط جستجوی شما مطابقت ندارد. لطفا دوباره با برخی از کلمات کلیدی مختلف امتحان کنید"
+ 
 
 #: content-none.php:28
 msgid ""
 "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
 "searching can help."
-msgstr ""
+msgstr "به نظر می رسد ما می توانیم چیزی را پیدا کنیم که به دنبال آن هستیم" شاید "
+"جستجو می تواند کمک کند."
 
 #: content-page.php:20 content-single.php:20 content.php:202 front-page.php:613
 msgid "Pages:"
-msgstr ""
+msgstr "صفحات"
 
 #: content-page.php:27 inc/template-tags.php:122
 msgid "Edit"
-msgstr ""
+msgstr "ویرایش"
 
 #: content-search.php:25 inc/accesspress-options.php:721
 msgid "Read More"
-msgstr ""
+msgstr "ادامه مطلب"
 
 #. translators: used between list items, there is a space after the comma
 #. translators: used between list items, there is a space after the comma
@@ -170,19 +172,19 @@ msgstr ""
 #: content.php:213 content.php:223 front-page.php:623 front-page.php:633 
 #: inc/template-tags.php:104 inc/template-tags.php:110
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #: content.php:217 front-page.php:627 inc/template-tags.php:106
 msgid "Posted in %1$s"
-msgstr ""
+msgstr "ارسال شده در٪ 1 $ s"
 
 #: content.php:227 front-page.php:637 inc/template-tags.php:112
 msgid "Tagged %1$s"
-msgstr ""
+msgstr "برچسب٪ 1 $ s"
 
 #: footer.php:59
 msgid "WordPress Theme: "
-msgstr ""
+msgstr "طراحی قالب: "
 
 #: footer.php:59 
 #: inc/options-framework/includes/class-options-framework-admin.php:177
@@ -191,105 +193,105 @@ msgstr ""
 
 #: footer.php:59
 msgid "by "
-msgstr ""
+msgstr "توسط "
 
 #. Author of the theme
 #: footer.php:59
 msgid "AccessPress Themes"
-msgstr ""
+msgstr "AccessPress Themes"
 
 #: footer.php:73
 msgid "top"
-msgstr ""
+msgstr "بالا"
 
 #: front-page.php:500
 msgid "No comment"
-msgstr ""
+msgstr "هیج دیدگاهی نیست."
 
 #: front-page.php:500 inc/template-tags.php:118
 msgid "1 Comment"
-msgstr ""
+msgstr "1 دیدگاه"
 
 #: front-page.php:500 inc/template-tags.php:118
 msgid "% Comments"
-msgstr ""
+msgstr "% دیدگاه"
 
 #: functions.php:67 header.php:86
 msgid "Primary Menu"
-msgstr ""
+msgstr "منوی اولیه"
 
 #: functions.php:98
 msgid "Left Sidebar"
-msgstr ""
+msgstr "نوار کناری چپ"
 
 #: functions.php:107
 msgid "Right Sidebar"
-msgstr ""
+msgstr "نوار کناری راست"
 
 #: functions.php:116
 msgid "Footer 1"
-msgstr ""
+msgstr "پاورقی 1"
 
 #: functions.php:125
 msgid "Footer 2"
-msgstr ""
+msgstr "پاورقی 2"
 
 #: functions.php:134
 msgid "Footer 3"
-msgstr ""
+msgstr "پاورقی 3"
 
 #: functions.php:143
 msgid "Footer 4"
-msgstr ""
+msgstr "پاورقی 4"
 
 #: search.php:16
 msgid "Search Results for: %s"
-msgstr ""
+msgstr "نتایج جستجو برای:٪ s"
 
 #: inc/accesspress-custom-metabox.php:34
 msgid "Left sidebar"
-msgstr ""
+msgstr "نوار کناری چپ"
 
 #: inc/accesspress-custom-metabox.php:39
 msgid "Right sidebar<br/>(default)"
-msgstr ""
+msgstr "نوار کناری راست <br/> (به طور پیش فرض)"
 
 #: inc/accesspress-custom-metabox.php:44
 msgid "Both Sidebar"
-msgstr ""
+msgstr "هر دو نوار کناری"
 
 #: inc/accesspress-custom-metabox.php:50
 msgid "No sidebar"
-msgstr ""
+msgstr "بدون نوار کناری"
 
 #: inc/accesspress-custom-metabox.php:65
 msgid "Choose Sidebar Template"
-msgstr ""
+msgstr "انتخاب الگو نوار کناری"
 
 #: inc/accesspress-custom-metabox.php:86
 msgid ""
 "You can set up the sidebar content <a href=\"%s\" target=\"_blank\">here</a>"
-msgstr ""
+msgstr "شما می توانید محتوای نوار کناری <a href=\"٪s\" target=\"_blank\"> اینجا </a> را تنظیم کنید"
 
 #: inc/accesspress-function.php:195
 msgid "skype:"
-msgstr ""
+msgstr "اسکایپ:"
 
 #: inc/accesspress-function.php:378
 msgid "Install Required Plugins"
-msgstr ""
+msgstr "نصب پلاگین های مورد نیاز"
 
 #: inc/accesspress-function.php:379
 msgid "Install Plugins"
-msgstr ""
+msgstr "نصب پلاگین ها"
 
 #: inc/accesspress-function.php:380
 msgid "Installing Plugin: %s"
-msgstr ""
+msgstr "نصب پلاگین:٪ s"
 
 #: inc/accesspress-function.php:381
 msgid "Something went wrong with the plugin API."
-msgstr ""
+msgstr "با API افزونه اشتباه گرفتید."
 
 #: inc/accesspress-function.php:382
 msgid "This theme requires the following plugin: %1$s."
@@ -395,89 +397,90 @@ msgstr ""
 
 #: inc/accesspress-options.php:27
 msgid "Grid"
-msgstr ""
+msgstr "توری"
 
 #: inc/accesspress-options.php:28
 msgid "List"
-msgstr ""
+msgstr "لیست"
 
 #: inc/accesspress-options.php:32
 msgid "Left"
-msgstr ""
+msgstr "چپ"
 
 #: inc/accesspress-options.php:33
 msgid "Right"
-msgstr ""
+msgstr راست""
 
 #: inc/accesspress-options.php:34
 msgid "Center"
-msgstr ""
+msgstr "وسط"
 
 #: inc/accesspress-options.php:38
 msgid "Single Post as Slider"
-msgstr ""
+msgstr "تک پست به صورت لغزان"
 
 #: inc/accesspress-options.php:39
 msgid "Category Posts as slider"
-msgstr ""
+msgstr "پست دسته به عنوان کشویی"
 
 #: inc/accesspress-options.php:42
 msgid "Transparent"
-msgstr ""
+msgstr "شفاف"
 
 #: inc/accesspress-options.php:43
 msgid "Classic"
-msgstr ""
+msgstr "کلاسیک"
 
 #: inc/accesspress-options.php:67 inc/accesspress-options.php:71 
 #: inc/accesspress-options.php:80
 msgid "Yes"
-msgstr ""
+msgstr "بله"
 
 #: inc/accesspress-options.php:68 inc/accesspress-options.php:72 
 #: inc/accesspress-options.php:81
 msgid "No"
-msgstr ""
+msgstr "خیر"
 
 #: inc/accesspress-options.php:75
 msgid "Fade"
-msgstr ""
+msgstr "محو شدن"
 
 #: inc/accesspress-options.php:76
 msgid "Slide Horizontal"
-msgstr ""
+msgstr "اسلاید افقی"
 
 #: inc/accesspress-options.php:77
 msgid "Slide Vertical"
-msgstr ""
+msgstr "اسلاید عمودی"
 
 #: inc/accesspress-options.php:84
 msgid "Show"
-msgstr ""
+msgstr "نمایش"
 
 #: inc/accesspress-options.php:85
 msgid "Hide"
-msgstr ""
+msgstr "پنهان شدن"
 
 #: inc/accesspress-options.php:88
 msgid "Static Images"
-msgstr ""
+msgstr "تصاویر استاتیک"
 
 #: inc/accesspress-options.php:89
 msgid "Logo Slider"
-msgstr ""
+msgstr "لوگو لغزان"
 
 #: inc/accesspress-options.php:95
 msgid "View Documentaion"
-msgstr ""
+msgstr "مشاهده مستندات"
 
 #: inc/accesspress-options.php:96
 msgid "View Demo"
-msgstr ""
+msgstr "نمایش نسخه ی نمایشی"
 
 #: inc/accesspress-options.php:101
 msgid "Forum:"
-msgstr ""
+msgstr "انجمن:"
+
 
 #: inc/accesspress-options.php:101
 msgid "Live Chat:"
